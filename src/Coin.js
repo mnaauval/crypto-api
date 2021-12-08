@@ -26,9 +26,6 @@ export default Coin;
 const CoinContainer = styled.div`
   display: flex;
   justify-content: center;
-  @media screen and (max-width: 400px) {
-    width: 100%;
-  }
 `;
 
 const CoinRow = styled.div`

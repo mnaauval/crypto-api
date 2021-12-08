@@ -49,9 +49,6 @@ const CoinApp = styled.div`
   align-items: center;
   margin-top: 64px;
   color: #fff;
-  @media screen and (max-width: 400px) {
-    width: 100%;
-  }
 `;
 
 const CoinSearch = styled.div`
